@@ -1,0 +1,5 @@
+﻿  SupermarketSystem.cpp
+C:\Users\pc\Desktop\Uni.Projects\Supermarket Project\SupermarketSystem\SupermarketSystem\SupermarketSystem.cpp(138,54): warning C4101: 'editedproduct': unreferenced local variable
+C:\Users\pc\Desktop\Uni.Projects\Supermarket Project\SupermarketSystem\SupermarketSystem\SupermarketSystem.cpp(138,69): warning C4101: 'newPrice': unreferenced local variable
+C:\Users\pc\Desktop\Uni.Projects\Supermarket Project\SupermarketSystem\SupermarketSystem\SupermarketSystem.cpp(136,83): warning C4101: 'priceList': unreferenced local variable
+  SupermarketSystem.vcxproj -> C:\Users\pc\Desktop\Uni.Projects\Supermarket Project\SupermarketSystem\x64\Debug\SupermarketSystem.exe
